@@ -1,8 +1,16 @@
 <h1> Hey there! 👋 </h1>
 
-<p> I'm <b>Akanksha Kushwaha</b> from <b> Noida, India. </b> </p>
-<p>I am a final year CSE student who is enthusiastic about <b>Web Development</b> and <b>Cyber Security</b>.<br> I am always looking forward to learning new technologies and implementing them!</p>
-<p>Currently enhancing my skills in <b>Full Stack Development</b>.<br> Will definitely try <b>Cloud Computing</b> and <b>Game Development</b> in the near future. </p>
+<p> I'm <b>Aditya Tripathi</b> from <b> Faridabad, India. </b> </p>
+<p>Proficient in languages like <b>C++</b>, <b>C</b>, and <b>Python</b>.</p>
+<p>I demonstrate my versatility by seamlessly transitioning between low-level systems programming and high-level application development.</p>
+<p>Whether crafting visually appealing user interfaces or optimizing website responsiveness, my expertise shines through in every pixel and line of code.</p>
+<p>But I don't stop there!</p>
+<p>I delves into the world of dynamic web applications with proficiency in <b>React</b>, <b>Next.js</b>, and <b>Node.js</b>.</p>
+<p>My knack for crafting interactive and user-friendly web experiences is evident in his projects, where I seamlessly integrates client-side and server-side technologies to create fluid and engaging applications.</p>
+<p>My familiarity with <b>Git</b> showcases my commitment to collaboration, OpenSource, and version control.</p>
+<p>while my prowess with databases extends to <b>MongoDB</b>, allowing me to design efficient and scalable data structures .</p>
+<p>My grasp of <b>Express</b> ensures robust back-end functionality.</p>
+<p>My continuous learning journey reflects my adaptability to stay at the forefront of industry trends.</p>
 
 <p>Oh, and I also like to do <b>Competitive Programming!</b>🙋‍♀️</p>
 
@@ -18,8 +26,12 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Node-6cc24a?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
 
 <h3>Where to find me</h3>
