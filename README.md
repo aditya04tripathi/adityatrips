@@ -5,8 +5,8 @@
 <p>I demonstrate my versatility by seamlessly transitioning between low-level systems programming and high-level application development.</p>
 <p>Whether crafting visually appealing user interfaces or optimizing website responsiveness, my expertise shines through in every pixel and line of code.</p>
 <p>But I don't stop there!</p>
-<p>I delves into the world of dynamic web applications with proficiency in <b>React</b>, <b>Next.js</b>, and <b>Node.js</b>.</p>
-<p>My knack for crafting interactive and user-friendly web experiences is evident in his projects, where I seamlessly integrates client-side and server-side technologies to create fluid and engaging applications.</p>
+<p>I dvelve into the world of dynamic web applications with proficiency in <b>React</b>, <b>Next.js</b>, and <b>Node.js</b>.</p>
+<p>My knack for crafting interactive and user-friendly web experiences is evident in my projects, where I seamlessly integrates client-side and server-side technologies to create fluid and engaging applications.</p>
 <p>My familiarity with <b>Git</b> showcases my commitment to collaboration, OpenSource, and version control.</p>
 <p>while my prowess with databases extends to <b>MongoDB</b>, allowing me to design efficient and scalable data structures .</p>
 <p>My grasp of <b>Express</b> ensures robust back-end functionality.</p>
