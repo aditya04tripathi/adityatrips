@@ -1,6 +1,6 @@
 <h1> Hey there! 👋 </h1>
 
-<p> I'm <b>Aditya Tripathi</b> from <b> Faridabad, India. </b> </p>
+<p> I'm <b>Aditya Tripathi</b> from <b> Melbourne, Australia. </b> </p>
 <p>Proficient in languages like <b>C++</b>, <b>C</b>, and <b>Python</b>.</p>
 <p>I demonstrate my versatility by seamlessly transitioning between low-level systems programming and high-level application development.</p>
 <p>Whether crafting visually appealing user interfaces or optimizing website responsiveness, my expertise shines through in every pixel and line of code.</p>
@@ -12,7 +12,7 @@
 <p>My grasp of <b>Express</b> ensures robust back-end functionality.</p>
 <p>My continuous learning journey reflects my adaptability to stay at the forefront of industry trends.</p>
 
-<p>Oh, and I also like to do <b>Competitive Programming!</b>🙋‍♀️</p>
+<p>Oh, and I also like to do <b>Competitive Programming!</b> 🙋🏻‍♂️</p>
 
 <h3> Things I code with: </h3>
 
@@ -37,7 +37,7 @@
 <h3>Where to find me</h3>
 
 <p>
-    <a href="https://github.com/adityatrips" target="_blank">
+    <a href="https://github.com/aditya04tripathi" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a> 
     <a href="https://www.linkedin.com/in/adityatripathi-at04/" target="_blank">
@@ -51,11 +51,11 @@
 <h2>GitHub Stats</h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatrips&show_icons=true&locale=en&layout=compact&theme=omni" alt="adityatrips" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya04tripathi&show_icons=true&locale=en&layout=compact&theme=omni" alt="aditya04tripathi" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityatrips&show_icons=true&locale=en&theme=omni" alt="adityatrips" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya04tripathi&show_icons=true&locale=en&theme=omni" alt="aditya04tripathi" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatrips&theme=omni" alt="adityatrips" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya04tripathi&theme=omni" alt="aditya04tripathi" />
 </p>
